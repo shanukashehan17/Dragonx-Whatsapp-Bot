@@ -13,4 +13,4 @@
 </div>
 
  <br>
-        <a href="https://github.com/Dargonx-WhastappBot/Dragonx-Whatsapp-Bo"> NEW dEPLOY pAGE
+        <a href="https://github.com/Dargonx-WhastappBot/Dragonx-Whatsapp-Bot"> NEW dEPLOY pAGE
