@@ -1,12 +1,12 @@
 {
-    "name": "⎝🛡️ᗪᖇ𝙰𝙶𝚘𝚗 Ӽ  🛡️⎠ WhatsApp User Bot v1.0.0",
+    "name": " 🇱🇰 𝗗𝗥𝗔𝗚𝗢𝗡 𝗫  𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧 🕊   WhatsApp User Bot v1.0.0",
     "description": "World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot",
     "logo": "https://telegra.ph/file/35883180004518cb15fe9.jpg",
-    "keywords": ["Janith sadanuwan | PG", "Dragon x"],
+    "keywords": ["Janith sadanuwan", "Dragon x"],
     "stack": "container",
     "env": {
       "DRAGONX_SESSION": {
-            "description": "Paste your QR session that you got from https://replit.com/@CTBOT/Alpha-Qr?v=1.",
+            "description": "Paste your QR session that you got from https://replit.com/@Janithsadanuwan/petlhi-Qr.",
             "required": true
         },
         "BUTTON_CMD": {
