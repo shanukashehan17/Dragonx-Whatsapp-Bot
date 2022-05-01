@@ -5,7 +5,7 @@
 	<div align="center">
 
 
-  <h1>🇱🇰 𝗗𝗥𝗔𝗚𝗢𝗡 𝗫  𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧 🕊 </h1>
+  <h1>🇱🇰 𝗗𝗥𝗔𝗚𝗢𝗡 𝗫  𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧 🕊 </h1> 
 </div>
 <p align="center">
     World best Sinhala/English WhatsApp Button Bot Developer Janith Sadanuwan Enjoy Our Bot
